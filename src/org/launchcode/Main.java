@@ -1,9 +1,6 @@
 package org.launchcode;
 
-import org.launchcode.comparators.CompoundComparator;
-import org.launchcode.comparators.NameComparator;
-import org.launchcode.comparators.PopulationComparator;
-import org.launchcode.comparators.StateComparator;
+import org.launchcode.comparators.*;
 
 import java.util.ArrayList;
 
